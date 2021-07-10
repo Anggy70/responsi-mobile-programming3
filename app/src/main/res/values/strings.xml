@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Responsi</string>
+
+    //Fragment
+    <string name="home">HOME</string>
+    <string name="payment">PAYMENT</string>
+    <string name="history">HISTORY</string>
+    <string name="setting">SETTING</string>
+</resources>
